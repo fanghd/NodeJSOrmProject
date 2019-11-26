@@ -1,0 +1,13 @@
+{
+    "apps": [
+        {
+            "name": "restfullApi",
+            "pwd": "./",
+            "script": "./bin/www",
+            "exec_mode": "cluster_mode",
+            "error_file": "./log/web-err.log",
+            "out_file": "./log/web-out.log",
+            "pid_file": "./log/web.pid"
+        }
+    ]
+}
