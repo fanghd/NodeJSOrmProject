@@ -46,7 +46,7 @@
     "request-promise-any": "^1.0.5",
     "sequelize": "^4.37.10",
     "url": "^0.11.0",
-    "validator": "^9.4.1",
+    "validator": "^13.7.0",
     "winston": "^2.4.2",
     "winston-daily-rotate-file": "^1.7.2",
     "yami-sso-client": "^1.0.1"
